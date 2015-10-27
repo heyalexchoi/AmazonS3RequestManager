@@ -9,7 +9,7 @@ DEPENDENCIES:
   - Alamofire (= 3.0.0)
   - Nimble (~> 2.0)
   - Nocilla (~> 0.10)
-  - Quick (~> 0.6.0)
+  - Quick (~> 0.6)
   - SWXMLHash (~> 2.0)
 
 SPEC CHECKSUMS:
