@@ -324,8 +324,6 @@
 			files = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Build/iOS/Alamofire.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/SWXMLHash.framework",
 			);
 			name = Carthage;
 			outputPaths = (
